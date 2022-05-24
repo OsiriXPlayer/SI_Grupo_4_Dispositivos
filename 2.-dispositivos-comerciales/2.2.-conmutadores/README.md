@@ -18,7 +18,7 @@ A continuación en este apartado vamos a hablar sobre un producto real de un con
 
 ·Especificaciones generales:
 
-&#x20;    \- Consta de cinco puertos Gigabit RJ-45, 10/100/1000 Mbps
+&#x20;    \- Consta de cinco puertos Gigabit RJ-45, 10/100/1000 Mbps.
 
 &#x20;    \- Tecnología D-Link Green, para lograr hasta un 80 % menos de consumo de energía.
 
