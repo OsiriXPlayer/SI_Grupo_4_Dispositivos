@@ -5,18 +5,18 @@ description: Especificaciones de un dispositivo comercial
 # 2.2. Conmutadores
 
 {% hint style="info" %}
-A continuación en este apartado vamos a hablar sobre un producto real de un conmutador. Se indicará su marca, su modelo, sus características más importantes, su precio y la web del fabricante del producto y la web del la página que lo vende. También se incluye una imagen del producto.
+A continuación en este apartado vamos a hablar sobre un producto real de un **conmutador**. Se indicará su marca, su modelo, sus características más importantes, su precio y la web del fabricante del producto y la web del la página que lo vende. También se incluirá una imagen del producto final.
 {% endhint %}
 
 ## Especificaciones sobre un conmutador real
 
-·Producto: D-Link DGS-105 - Switch de red
+·**Producto**: D-Link DGS-105 - Switch de red
 
-·Marca: D-Link
+·**Marca**: D-Link
 
-·Modelo: DGS-105
+·**Modelo**: DGS-105
 
-·Especificaciones generales:
+·**Especificaciones generales:**
 
 &#x20;    \- Consta de cinco puertos Gigabit RJ-45, 10/100/1000 Mbps.
 
@@ -26,11 +26,11 @@ A continuación en este apartado vamos a hablar sobre un producto real de un con
 
 &#x20;    \- Potencia eléctrica de 2.75 vatios.
 
-&#x20;·Precio del producto: 17,99€
+&#x20;·**Precio**: 17,99€
 
-&#x20;·Página web del fabricante: [https://eu.dlink.com/es/es](https://eu.dlink.com/es/es)
+&#x20;·**Web del fabricante**: [https://eu.dlink.com/es/es](https://eu.dlink.com/es/es)
 
-&#x20;·Página web del vendedor: [https://www.amazon.es/](https://www.amazon.es/)
+&#x20;·**Web del vendedor:** [https://www.amazon.es/](https://www.amazon.es/)
 
 ![Enlace de la imagen: https://www.amazon.es/dp/B000BC7QMM?tag=reviewbox.es-21\&linkCode=ogi\&th=1\&psc=1 ](../../.gitbook/assets/switch.jpg)
 
